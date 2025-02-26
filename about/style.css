@@ -1,0 +1,16 @@
+.container {
+    padding-top:100px;
+    float:left;
+    width: 500px;
+    height: auto; /* Height adjusts based on content */
+    font-family: 'Courier New', Courier, monospace;
+    font-size:20px;
+}
+.about{
+    font-family: 'Courier New', Courier, monospace;
+    padding-top:95px;
+    float:right;
+    width: 600px;
+    height: auto;
+    font-size:20px; /* Height adjusts based on content */
+}

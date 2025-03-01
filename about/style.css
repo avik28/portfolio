@@ -1,3 +1,6 @@
+body{
+    background-color: honeydew;
+}
 .container {
     padding-top:100px;
     float:left;

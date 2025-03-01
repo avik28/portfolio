@@ -1,8 +1,6 @@
 /* Add a black background color to the top navigation */
-iframe{
-    background-color: honeydew;
-}
 body,html{
+    background-color: honeydew;
     margin:0;
     padding:0;
 }
